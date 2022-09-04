@@ -3,20 +3,20 @@ import './Toggle.css'
 const Toggle = () => {
   return(
     
-    <div class="App">
-    <div class="header">
+    <div className="App">
+    <div className="header">
        <div id="name">
         <a href="#index.js">Student's Test</a>
         <div className="searchBox">
         <input type="text" className="inputBox" placeholder="Search among tests..."/>
-        <span><i class="fa-solid fa-magnifying-glass"></i></span>
+        <span><i className="fa-solid fa-magnifying-glass"></i></span>
         </div>
-        <span className="two"><i class="fa-solid fa-user"></i></span>
+        <span className="two"><i className="fa-solid fa-user"></i></span>
     </div>
        
     </div>
     <input type="checkbox" id="openSidebarMenu"/>
-    <label for="openSidebarMenu" class="sidebarIconToggle">
+    <label htmlFor="openSidebarMenu" className="sidebarIconToggle">
         <div className="spinner top"></div>
         <div className="spinner middle"></div>
         <div className="spinner bottom"></div>
