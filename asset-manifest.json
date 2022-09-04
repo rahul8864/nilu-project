@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/nilu-project/static/css/main.b4a902c1.chunk.css",
+    "main.js": "/nilu-project/static/js/main.033dad95.chunk.js",
+    "main.js.map": "/nilu-project/static/js/main.033dad95.chunk.js.map",
+    "runtime-main.js": "/nilu-project/static/js/runtime-main.115a7cef.js",
+    "runtime-main.js.map": "/nilu-project/static/js/runtime-main.115a7cef.js.map",
+    "static/js/2.b5758cf7.chunk.js": "/nilu-project/static/js/2.b5758cf7.chunk.js",
+    "static/js/2.b5758cf7.chunk.js.map": "/nilu-project/static/js/2.b5758cf7.chunk.js.map",
+    "static/js/3.e903ea92.chunk.js": "/nilu-project/static/js/3.e903ea92.chunk.js",
+    "static/js/3.e903ea92.chunk.js.map": "/nilu-project/static/js/3.e903ea92.chunk.js.map",
+    "index.html": "/nilu-project/index.html",
+    "static/css/main.b4a902c1.chunk.css.map": "/nilu-project/static/css/main.b4a902c1.chunk.css.map",
+    "static/js/2.b5758cf7.chunk.js.LICENSE.txt": "/nilu-project/static/js/2.b5758cf7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.115a7cef.js",
+    "static/js/2.b5758cf7.chunk.js",
+    "static/css/main.b4a902c1.chunk.css",
+    "static/js/main.033dad95.chunk.js"
+  ]
+}
